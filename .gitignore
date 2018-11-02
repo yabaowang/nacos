@@ -1,4 +1,4 @@
-# Except this file !.gitignore 
+# Except this file !.gitignore
 .classpath
 .project
 .settings
@@ -10,3 +10,6 @@ target
 *.iml
 node_modules
 test/derby.log
+distribution/bin/derby.log
+distribution/data/*
+distribution/logs/*
